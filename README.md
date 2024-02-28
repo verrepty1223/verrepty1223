@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me /
 - 😄 Pronouns: he/him?
-- ⚡ Fun fact: I have basic understanding of python, c#, html, css.
+- ⚡ Fun fact: /
 
 <!---
 verrepty1223/verrepty1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
