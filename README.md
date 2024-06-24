@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @verrepty1223
 - 👀 I’m interested in learning about programming and IT in general
-- 🌱 I’m currently learning c# and asp.net
+- 🌱 I’m currently learning ❓
+- 🧠 I'm know python (basic), csharp, mysql, html, css, asp.net
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me /
-- 😄 Pronouns: he/him?
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: /
 
 <!---
