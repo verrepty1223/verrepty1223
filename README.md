@@ -6,6 +6,13 @@
 - 📫 How to reach me /
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: / --->
+<details>
+  <summary>Open for more details</summary>
+  
+  - Additional information
+  - Code snippets
+  - Extended documentation
+</details>
 
 <!---
 verrepty1223/verrepty1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
