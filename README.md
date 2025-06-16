@@ -1,5 +1,6 @@
+![banner](https://github.com/verrepty1223/verrepty1223/blob/main/banner-ln.png)
 ## Hello there, 👋 my name is Yan Verrept.
-## Student IT
+### Student IT
 
 <!---
 - 👋 Hi, I’m @verrepty1223
