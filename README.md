@@ -1,6 +1,3 @@
-<h2 align="center">Hello there, 👋 my name is Yan Verrept.</h2>
-
-<!---
 - 👋 Hi, I’m @verrepty1223
 - 👀 I’m interested in learning about programming and IT in general
 - 🌱 I’m currently learning ❓
