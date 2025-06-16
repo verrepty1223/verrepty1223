@@ -1,3 +1,7 @@
+## Hello there, 👋 my name is Yan Verrept.
+## Student IT
+
+<!---
 - 👋 Hi, I’m @verrepty1223
 - 👀 I’m interested in learning about programming and IT in general
 - 🌱 I’m currently learning ❓
@@ -5,7 +9,7 @@
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me /
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: /
+- ⚡ Fun fact: / --->
 
 <!---
 verrepty1223/verrepty1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
