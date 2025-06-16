@@ -1,4 +1,4 @@
-<h2 class="center">## Hello there, 👋 my name is Yan Verrept.</h2>
+<h2 align="center">Hello there, 👋 my name is Yan Verrept.</h2>
 
 <!---
 - 👋 Hi, I’m @verrepty1223
