@@ -18,6 +18,7 @@ Currently I am studying the more IT aspects of programming but also like to do s
 ---
 
 <h3>🌱 Know programming languages:</h3>
+Keep in mind that the skills with those languages could differ between them.
 
 <h4>General purpose languages:</h4>
 
