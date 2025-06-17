@@ -39,7 +39,7 @@ Currently I am studying the more IT aspects of programming but also like to do s
 ---
  
 <h3>📫 Links:</h3>
-add links
+-  [LinkedIn](www.linkedin.com/in/yan-verrept)
 
 
 <!---
