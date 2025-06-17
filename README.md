@@ -15,8 +15,6 @@ Currently I am studying the more IT aspects of programming but also like to do s
     
 </details>
 
-![banner](https://github.com/verrepty1223/verrepty1223/blob/main/banner-ln.png)
-
 ---
 
 <h3>🌱 Know programming languages:</h3>
