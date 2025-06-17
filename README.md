@@ -9,10 +9,11 @@ Currently I am studying the more IT aspects of programming but also like to do s
 <details>
     <summary><strong> 👀Examples of my Graphic designs</strong></summary>
     <h4>Personal banner:</h4>
-        ![personal banner](banner-ln.png)
 
     
 </details>
+
+![banner](https://github.com/verrepty1223/verrepty1223/blob/main/banner-ln.png)
 
 ---
 
