@@ -10,7 +10,7 @@ Currently I am studying the more IT aspects of programming but also like to do s
     <summary><strong> 👀Examples of my Graphic designs</strong></summary>
     <h4>Personal banner:</h4>
     <p align="center">
-        <img src="[https://picsum.photos/400/300](https://github.com/verrepty1223/verrepty1223/blob/main/banner-ln.png)" alt="Personal banner">
+        <img src="https://github.com/verrepty1223/verrepty1223/blob/main/banner-ln.png" alt="Personal banner">
     </p>
     
 </details>
