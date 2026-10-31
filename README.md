@@ -15,7 +15,6 @@ Currently I am exploring programming and linux more, but I also like doing small
     </summary>
     <h4>Custom folder icons:</h4>
     <p align="center">
-        <img src="https://github.com/verrepty1223/verrepty1223/blob/main/char_icons.png" alt="Personal banner">
         <img src="char_icons.png" alt="Personal folder icons">
     </p>
 </details>
