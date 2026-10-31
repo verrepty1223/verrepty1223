@@ -1,41 +1,46 @@
 <h2 align="center">Hello there, 👋 my name is Yan Verrept.</h2>
 
 <h3>😄 Who am I?:</h3>
-I am a student in IT who is everyday busy exploring the world of IT in small and big portions.
-Currently I am studying the more IT aspects of programming but also like to do small graphic design things for personal use.
+
+I am an university student in an IT major who also is an IT enthousiast, I am regularly trying to explore the IT world to see what it has to offer.
+
+Currently I am exploring programming and linux more, but I also like doing small graphic design for personal use.
+
 
 ---
 
 <details>
-    <summary><strong> 👀Examples of my Graphic designs</strong></summary>
-    <h4>Personal banner:</h4>
+    <summary>
+        <strong> 👀Example of my Graphic designs</strong>
+    </summary>
+    <h4>Custom folder icons:</h4>
     <p align="center">
-        <img src="https://github.com/verrepty1223/verrepty1223/blob/main/banner-ln.png" alt="Personal banner">
+        <img src="https://github.com/verrepty1223/verrepty1223/blob/main/char_icons.png" alt="Personal banner">
+        <img src="char_icons.png" alt="Personal folder icons">
     </p>
-    
 </details>
 
 ---
 
-<h3>🌱 Know programming languages:</h3>
-Keep in mind that the skills with those languages could differ between them.
+<h3>🌱 Programming languages I know:</h3>
+
+Keep in mind that my experience and skills with those programming languages may differ from beginner to intermediate in the context of university. 
 
 <h4>General purpose languages:</h4>
 
 -   C# and dotnet framework
 -   Python (basics)
--   Java
 
 <h4>Web based languages:</h4>
 
 -   Html
 -   Css (including bootstrap)
--   Javascript
+-   Javascript (basics)
 
 <h4>Database languages:</h4>
 
 -   Mysql and Postgress (neondb)
--   MongoDB
+-   MongoDB 
 
 ---
  
